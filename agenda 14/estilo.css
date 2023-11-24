@@ -1,0 +1,15 @@
+.principal {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.coluna {
+    width: 50%;
+}
+
+
+img {
+    max-width: 95%;
+    margin: 1.5%;
+}
